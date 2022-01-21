@@ -1,0 +1,24 @@
+.carosel-back{
+    background-color: bisque;
+}
+.sub-back{
+    background-color:#1A4FAC ;
+}
+.carosel-button{
+    background-color: #FF589B;
+    height: 52px;
+    width: 168px;
+    color:white;
+    border: none;
+}
+.price{
+    color: #741111;
+}
+.card-button{
+    color: white;
+    background-color: #FF589B;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 20px;
+}
